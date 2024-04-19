@@ -11,29 +11,29 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 ### Cloud
 
-[Deployment of T-Pot Multi Honeypot Platform on Microsoft Azure](https://github.com/acibojbp/Azure-Honeypot)  
-[Onboarding On-Premises Servers to Azure with Azure Arc](https://github.com/acibojbp/Azure-Arc)  
-[RDP Security Monitoring and Geolocation Analysis Automation](https://github.com/acibojbp/Failed-RDP-World-Map)  
+- [Deployment of T-Pot Multi Honeypot Platform on Microsoft Azure](https://github.com/acibojbp/Azure-Honeypot)  
+- [Onboarding On-Premises Servers to Azure with Azure Arc](https://github.com/acibojbp/Azure-Arc)  
+- [RDP Security Monitoring and Geolocation Analysis Automation](https://github.com/acibojbp/Failed-RDP-World-Map)  
 
 ### Ethical Hacking
 
-[Burp Suite Academy Write-Ups](https://github.com/acibojbp/Burp-Suite-Academy)  
-[OverTheWire](https://github.com/acibojbp/OverTheWire)
+- [Burp Suite Academy Write-Ups](https://github.com/acibojbp/Burp-Suite-Academy)  
+- [OverTheWire](https://github.com/acibojbp/OverTheWire)
 
 ### Home Labs
 
-[Nessus Vulnerability Assessment and Remediation Lab](https://github.com/acibojbp/Vulnerability-Assessment-Lab)  
-[Getting Started with Cybersecurity Labs](https://github.com/acibojbp/Cybersecurity-Labs-Setup)
+- [Nessus Vulnerability Assessment and Remediation Lab](https://github.com/acibojbp/Vulnerability-Assessment-Lab)  
+- [Getting Started with Cybersecurity Labs](https://github.com/acibojbp/Cybersecurity-Labs-Setup)
 
 ### Phishing Email Analysis
 
-[Phishing & Business Email Compromise](https://github.com/acibojbp/RangeForce-Phishing)  
-[Mastercard Security Analyst Virtual Experience](https://github.com/acibojbp/Mastercard-Phishing)  
-[The Planet's Prestige](https://github.com/acibojbp/BTLO-Writeups/blob/main/Challenges/the-planets-prestige.md)  
+- [Phishing & Business Email Compromise](https://github.com/acibojbp/RangeForce-Phishing)  
+- [Mastercard Security Analyst Virtual Experience](https://github.com/acibojbp/Mastercard-Phishing)  
+- [The Planet's Prestige](https://github.com/acibojbp/BTLO-Writeups/blob/main/Challenges/the-planets-prestige.md)  
 
 ### SIEM
 
-[Microsoft Sentinel Training Lab](https://github.com/acibojbp/Azure-Sentinel-Training-Lab)  
+- [Microsoft Sentinel Training Lab](https://github.com/acibojbp/Azure-Sentinel-Training-Lab)  
 
 ## Certifications
 
