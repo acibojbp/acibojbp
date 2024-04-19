@@ -37,8 +37,8 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 ## Certifications
 
-[![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20CC-Certified-blue?style=flat-square&logo=isc2)](https://www.isc2.org/)
-[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support%20Professional-Certified-green?style=flat-square&logo=google)](https://grow.google/programs/it-support/)
+![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20CC-Certified-blue?style=flat-square&logo=isc2)
+![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support%20Professional-Certified-green?style=flat-square&logo=google)
 ![CompTIA Sec+ - In Progress](https://img.shields.io/badge/CompTIA%20Sec%2B-In%20Progress-yellow?style=flat-square&logo=comptia)
 ![Google Cybersecurity Professional - In Progress](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-In%20Progress-yellow?style=flat-square&logo=google)
 ![Cisco Junior Cybersecurity Analyst - In Progress](https://img.shields.io/badge/Cisco%20Junior%20Cybersecurity%20Analyst-In%20Progress-yellow?style=flat-square&logo=cisco)
