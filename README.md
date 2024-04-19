@@ -11,33 +11,38 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 ### Cloud
 
-Deployment of T-Pot Multi Honeypot Platform on Microsoft Azure  
-Onboarding On-Premises Servers to Azure with Azure Arc  
-RDP Security Monitoring and Geolocation Analysis Automation  
-Microsoft Sentinel Training Lab  
+[Deployment of T-Pot Multi Honeypot Platform on Microsoft Azure](https://github.com/acibojbp/Azure-Honeypot)  
+[Onboarding On-Premises Servers to Azure with Azure Arc](https://github.com/acibojbp/Azure-Arc)  
+[RDP Security Monitoring and Geolocation Analysis Automation](https://github.com/acibojbp/Failed-RDP-World-Map)  
 
 ### Ethical Hacking
 
-Burp Suite Academy Write-Ups  
-OverTheWire  
+[Burp Suite Academy Write-Ups](https://github.com/acibojbp/Burp-Suite-Academy)  
+[OverTheWire](https://github.com/acibojbp/OverTheWire)
 
 ### Home Labs
 
-Nessus Vulnerability Assessment and Remediation Lab  
+[Nessus Vulnerability Assessment and Remediation Lab](https://github.com/acibojbp/Vulnerability-Assessment-Lab)  
 [Getting Started with Cybersecurity Labs](https://github.com/acibojbp/Cybersecurity-Labs-Setup)
 
 ### Phishing Email Analysis
 
-Phishing & Business Email Compromise  
-Mastercard Security Analyst Virtual Experience  
-The Planet's Prestige  
+[Phishing & Business Email Compromise](https://github.com/acibojbp/RangeForce-Phishing)  
+[Mastercard Security Analyst Virtual Experience](https://github.com/acibojbp/Mastercard-Phishing)  
+[The Planet's Prestige](https://github.com/acibojbp/BTLO-Writeups/blob/main/Challenges/the-planets-prestige.md)  
 
-## Programming Languages
+### SIEM
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-green?style=flat-square&logo=gnu-bash)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-orange?style=flat-square&logo=c%2B%2B)
+[Microsoft Sentinel Training Lab](https://github.com/acibojbp/Azure-Sentinel-Training-Lab)  
 
+## Certifications
+
+[![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20CC-Certified-blue?style=flat-square&logo=isc2)](https://www.isc2.org/)
+[![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support%20Professional-Certified-green?style=flat-square&logo=google)](https://grow.google/programs/it-support/)
+![CompTIA Sec+ - In Progress](https://img.shields.io/badge/CompTIA%20Sec%2B-In%20Progress-yellow?style=flat-square&logo=comptia)
+![Google Cybersecurity Professional - In Progress](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-In%20Progress-yellow?style=flat-square&logo=google)
+![Cisco Junior Cybersecurity Analyst - In Progress](https://img.shields.io/badge/Cisco%20Junior%20Cybersecurity%20Analyst-In%20Progress-yellow?style=flat-square&logo=cisco)
+![Microsoft Certified: SC - 900 - In Progress](https://img.shields.io/badge/Microsoft%20Certified%3A%20SC%20--%20900-In%20Progress-yellow?style=flat-square&logo=microsoft)
 
 <!--
 **acibojbp/acibojbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
