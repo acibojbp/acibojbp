@@ -29,7 +29,12 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 - [Phishing & Business Email Compromise](https://github.com/acibojbp/RangeForce-Phishing)  
 - [Mastercard Security Analyst Virtual Experience](https://github.com/acibojbp/Mastercard-Phishing)  
-- [The Planet's Prestige](https://github.com/acibojbp/BTLO-Writeups/blob/main/Challenges/the-planets-prestige.md)  
+- [The Planet's Prestige](https://github.com/acibojbp/BTLO-Writeups/blob/main/Challenges/the-planets-prestige.md)
+
+### Malware Analysis
+- [Malware Analysis Lab Setup](https://github.com/acibojbp/Malware-Analysis-Lab-Setup)
+- [Analyze the Suspicious Attachment](https://github.com/acibojbp/RangeForce-Phishing/blob/main/Modules/Module-5.md#analyze-the-suspicious-attachment)
+- [CVEs and Emerging Threats](https://github.com/acibojbp/RangeForce-Community/blob/main/CVEs/README.md)
 
 ### SIEM
 
