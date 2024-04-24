@@ -34,6 +34,7 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 ### Malware Analysis
 - [Malware Analysis Lab Setup](https://github.com/acibojbp/Malware-Analysis-Lab-Setup)
 - [Analyze the Suspicious Attachment](https://github.com/acibojbp/RangeForce-Phishing/blob/main/Modules/Module-5.md#analyze-the-suspicious-attachment)
+- [LetsDefend - Malware Analysis Skill Path](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/README.md)
 - [CVEs and Emerging Threats](https://github.com/acibojbp/RangeForce-Community/blob/main/CVEs/README.md)
 
 ### SIEM
