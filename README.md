@@ -37,6 +37,7 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 - [LetsDefend - Malware Analysis Skill Path](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/README.md)
 - [Excel 4.0 Macros](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/Challenges/Excel-4.0-Macros.md)
 - [Malicious Doc](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/Challenges/Malicious-Doc.md)
+- [Malicious VBA](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/Challenges/Malicious-VBA.md)
 - [RangeForce - CVEs and Emerging Threats](https://github.com/acibojbp/RangeForce-Community/blob/main/CVEs/README.md)
 
 ### SIEM
