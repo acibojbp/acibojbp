@@ -33,6 +33,7 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 ### Malware Analysis
 - [Malware Analysis Lab Setup](https://github.com/acibojbp/Malware-Analysis-Lab-Setup)
+- [Telstra Cybersecurity Simlation - Spring4Shell](https://github.com/acibojbp/Telstra-Spring4Shell)
 - [Analyze the Suspicious Attachment](https://github.com/acibojbp/RangeForce-Phishing/blob/main/Modules/Module-5.md#analyze-the-suspicious-attachment)
 - [LetsDefend - Malware Analysis Skill Path](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/README.md)
 - [Excel 4.0 Macros](https://github.com/acibojbp/LetsDefend/blob/main/Malware-Analysis/Challenges/Excel-4.0-Macros.md)
