@@ -19,6 +19,7 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 - [Burp Suite Academy Write-Ups](https://github.com/acibojbp/Burp-Suite-Academy)  
 - [OverTheWire](https://github.com/acibojbp/OverTheWire)
+- [Proxmark3](https://github.com/acibojbp/Proxmark3/blob/main/README.md)
 
 ### Home Labs
 
