@@ -28,7 +28,7 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 ### Self-Hosted
 
-- [Vaultwarden on Synology NAS with Tailscale](https://github.com/acibojbp/vaultwarden-tailscale-synology/README.md)
+- [Vaultwarden on Synology NAS with Tailscale](https://github.com/acibojbp/vaultwarden-tailscale-synology)
 
 ### Phishing Email Analysis
 
