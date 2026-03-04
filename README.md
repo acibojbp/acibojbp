@@ -26,6 +26,10 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 - [Nessus Vulnerability Assessment and Remediation Lab](https://github.com/acibojbp/Vulnerability-Assessment-Lab)  
 - [Getting Started with Cybersecurity Labs](https://github.com/acibojbp/Cybersecurity-Labs-Setup)
 
+### Self-Hosted
+
+- [Vaultwarden on Synology NAS with Tailscale](https://github.com/acibojbp/vaultwarden-tailscale-synology/README.md)
+
 ### Phishing Email Analysis
 
 - [Phishing & Business Email Compromise](https://github.com/acibojbp/RangeForce-Phishing)  
@@ -45,7 +49,7 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 
 ### SIEM
 
-- [Microsoft Sentinel Training Lab](https://github.com/acibojbp/Azure-Sentinel-Training-Lab)  
+- [Microsoft Sentinel Training Lab](https://github.com/acibojbp/Azure-Sentinel-Training-Lab)
 
 ## Certifications
 
@@ -55,6 +59,8 @@ As an aspiring ethical hacker with a penchant for problem-solving and exploratio
 ![Google Cybersecurity Professional - In Progress](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-In%20Progress-yellow?style=flat-square&logo=google)
 ![Cisco Junior Cybersecurity Analyst - In Progress](https://img.shields.io/badge/Cisco%20Junior%20Cybersecurity%20Analyst-In%20Progress-yellow?style=flat-square&logo=cisco)
 ![Microsoft Certified: SC - 900 - In Progress](https://img.shields.io/badge/Microsoft%20Certified%3A%20SC%20--%20900-In%20Progress-yellow?style=flat-square&logo=microsoft)
+
+
 
 <!--
 **acibojbp/acibojbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
